@@ -1,0 +1,556 @@
+{
+  "checked_at": "2026-11-20",
+  "repository_count": 1189,
+  "content_repositories": 166,
+  "matches": [
+    {
+      "term": "لافندر",
+      "resolution": "False positive: colour, flower and spa service references; no matching phone, handle, city identity."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "أوراد للزهور",
+      "slug": "awrad-najran",
+      "city": "نجران",
+      "phone": "966556999683",
+      "address": "شارع الحصين، نجران",
+      "instagram": "https://instagram.com/awradnajran",
+      "queries": [
+        "\"أوراد\" \"نجران\" زهور",
+        "\"0556999683\"",
+        "\"awradnajran\""
+      ],
+      "services": [
+        "تنسيق الزهور",
+        "طلبات الورود",
+        "التوصيل حسب الاتفاق"
+      ],
+      "notes": "Directory explicitly lists no standalone website; two other sources confirm same phone/location; Instagram itself fetch-throttled.",
+      "source_url": "https://www.bizmideast.com/SA/%D9%85%D8%AD%D9%84-%D8%A3%D9%88%D8%B1%D8%A7%D8%AF-%D9%84%D9%84%D8%B2%D9%87%D9%88%D8%B1-055-699-9683",
+      "sources": [
+        {
+          "url": "https://www.bizmideast.com/SA/%D9%85%D8%AD%D9%84-%D8%A3%D9%88%D8%B1%D8%A7%D8%AF-%D9%84%D9%84%D8%B2%D9%87%D9%88%D8%B1-055-699-9683"
+        },
+        {
+          "url": "https://maps.yango.com/ar-sa/org/76968202333/"
+        },
+        {
+          "url": "https://ich.ma/annuaire/محل-أوراد-للزهور-najran-966-55-699-9683/"
+        }
+      ],
+      "checked_date": "2026-11-20",
+      "website_status": "لم يُعثر على موقع مستقل في البحث بالاسم والمدينة والهاتف بتاريخ 2026-11-20.",
+      "github_check": "لم يُعثر على تطابق هوية في أسماء وأوصاف 1189 مستودعًا ومحتوى 166 مشروعًا ذا صلة. تطابق كلمة لافندر في مشاريع أخرى كان وصفًا للون أو نوع زهور أو خدمة سبا، دون تطابق رقم أو حساب أو مدينة.",
+      "theme": {
+        "layout": "split",
+        "paper": "#fff9f8",
+        "ink": "#48212d",
+        "accent": "#9a4a60",
+        "wash": "#f5e7eb",
+        "muted": "#74505d",
+        "hero": 0,
+        "side": 9,
+        "headline": "وردٌ يشبه\nجمال شعورك.",
+        "intro": "للحظةٍ تستحق أن تُحكى بالورد. اختر فكرتك، ودع تفاصيل المناسبة تبدأ من هنا.",
+        "tag": "أوراد، وللمشاعر لغة",
+        "english": "Awrad"
+      }
+    },
+    {
+      "name": "لاند فلاور",
+      "slug": "land-flower-samitah",
+      "city": "صامطة",
+      "phone": "966536210605",
+      "address": "صامطة، منطقة جازان، JW2R+769",
+      "instagram": "https://www.instagram.com/land_flowers/",
+      "queries": [
+        "\"لاند فلاور\" \"صامطة\"",
+        "\"0536210605\"",
+        "لاند فلاور صامطة ورد انستقرام",
+        "\"land_flowers\" صامطة",
+        "\"لاند فلاور\" صامطة موقع"
+      ],
+      "services": [
+        "الورود والهدايا",
+        "تنسيق المناسبات",
+        "تنسيق الحفلات"
+      ],
+      "notes": "Directory explicitly says no standalone site and links Instagram. Local news independently identifies shop, but article is old. Instagram itself fetch-throttled.",
+      "source_url": "https://www.bizmideast.com/SA/%D9%84%D8%A7%D9%86%D8%AF-%D9%81%D9%84%D8%A7%D9%88%D8%B1-%D9%88%D8%B1%D9%88%D8%AF-%D9%88-%D9%87%D8%AF%D8%A7%D9%8A%D8%A7-053-621-0605",
+      "sources": [
+        {
+          "url": "https://www.bizmideast.com/SA/%D9%84%D8%A7%D9%86%D8%AF-%D9%81%D9%84%D8%A7%D9%88%D8%B1-%D9%88%D8%B1%D9%88%D8%AF-%D9%88-%D9%87%D8%AF%D8%A7%D9%8A%D8%A7-053-621-0605"
+        },
+        {
+          "url": "https://www.ajel-news24.net/103174/"
+        }
+      ],
+      "checked_date": "2026-11-20",
+      "website_status": "لم يُعثر على موقع مستقل في البحث بالاسم والمدينة والهاتف بتاريخ 2026-11-20.",
+      "github_check": "لم يُعثر على تطابق هوية في أسماء وأوصاف 1189 مستودعًا ومحتوى 166 مشروعًا ذا صلة. تطابق كلمة لافندر في مشاريع أخرى كان وصفًا للون أو نوع زهور أو خدمة سبا، دون تطابق رقم أو حساب أو مدينة.",
+      "theme": {
+        "layout": "immersive",
+        "paper": "#f7faf5",
+        "ink": "#203e30",
+        "accent": "#547045",
+        "wash": "#eaf0e6",
+        "muted": "#526556",
+        "hero": 7,
+        "side": 5,
+        "headline": "من الطبيعة،\nإلى قلب من تحب.",
+        "intro": "ورد وهدايا في صامطة. أخبرنا عن مناسبتك، وما الذي يجعلها مختلفة بالنسبة لك.",
+        "tag": "تفاصيل تحتفي بالحياة",
+        "english": "Land Flower"
+      }
+    },
+    {
+      "name": "بائعة الورد",
+      "slug": "flower-seller-yanbu",
+      "city": "ينبع",
+      "phone": "966560006842",
+      "address": "حي قرطبة، طريق الملك عبدالله بن عبدالعزيز شمال، ينبع",
+      "instagram": "https://www.instagram.com/flowerseller_y/",
+      "queries": [
+        "\"بائعة الورد\" \"ينبع\" متجر",
+        "\"0560006842\"",
+        "\"بائعة الورد\" \"flowerseller_y\""
+      ],
+      "services": [
+        "تنسيق الورود",
+        "باقات المناسبات",
+        "التوصيل حسب الاتفاق"
+      ],
+      "notes": "Directory explicitly says no standalone site. Yango independently confirms phone/address. Instagram itself inaccessible.",
+      "source_url": "https://www.bizmideast.com/SA/%D8%A8%D8%A7%D8%A6%D8%B9%D8%A9-%D8%A7%D9%84%D9%88%D8%B1%D8%AF_4A-056-000-6842",
+      "sources": [
+        {
+          "url": "https://www.bizmideast.com/SA/%D8%A8%D8%A7%D8%A6%D8%B9%D8%A9-%D8%A7%D9%84%D9%88%D8%B1%D8%AF_4A-056-000-6842"
+        },
+        {
+          "url": "https://maps.yango.com/ar-sa/org/36733490154/"
+        }
+      ],
+      "checked_date": "2026-11-20",
+      "website_status": "لم يُعثر على موقع مستقل في البحث بالاسم والمدينة والهاتف بتاريخ 2026-11-20.",
+      "github_check": "لم يُعثر على تطابق هوية في أسماء وأوصاف 1189 مستودعًا ومحتوى 166 مشروعًا ذا صلة. تطابق كلمة لافندر في مشاريع أخرى كان وصفًا للون أو نوع زهور أو خدمة سبا، دون تطابق رقم أو حساب أو مدينة.",
+      "theme": {
+        "layout": "arch",
+        "paper": "#fffaf7",
+        "ink": "#663c35",
+        "accent": "#aa5949",
+        "wash": "#f7e9e2",
+        "muted": "#795e59",
+        "hero": 13,
+        "side": 0,
+        "headline": "حكاية صغيرة،\nتبدأ بوردة.",
+        "intro": "لمن يستحق حضورًا جميلًا في يومه. اكتشف أفكارًا للورد، وشارك بائعة الورد في ينبع ما تتمناه.",
+        "tag": "من القلب إلى القلب",
+        "english": "Flower Seller"
+      }
+    },
+    {
+      "name": "فلاوري",
+      "slug": "flowery-taif",
+      "city": "الطائف",
+      "phone": "966565881046",
+      "address": "الحوية، بجوار صيدلية الدواء المفيد، الطائف",
+      "instagram": null,
+      "source_url": "https://www.bizmideast.com/SA/فلاوري-%7C-ارقى-الورود-056-588-1046",
+      "queries": [
+        "\"فلاوري\" \"الطائف\" متجر",
+        "\"0565881046\"",
+        "\"فلاوري\" \"056\" \"1046\"",
+        "\"فلاوري\" \"الحويه\" موقع",
+        "\"فلاوري\" \"Flowery\" \"الحوية\""
+      ],
+      "services": [
+        "باقات ورد طبيعية وصناعية",
+        "تغليف الهدايا",
+        "تنسيق الشوكولاتة والورود"
+      ],
+      "notes": "Search-indexed directory explicitly states no independent site; newer page open omitted website field. Secondary article confirms business exists. Exact Instagram not recovered; do not invent.",
+      "sources": [
+        {
+          "url": "https://www.bizmideast.com/SA/فلاوري-%7C-ارقى-الورود-056-588-1046"
+        },
+        {
+          "url": "https://also3odyah.com/أماكن/محلات-بيع-ورد-في-مدينة-الطائف"
+        }
+      ],
+      "checked_date": "2026-11-20",
+      "website_status": "لم يُعثر على موقع مستقل في البحث بالاسم والمدينة والهاتف بتاريخ 2026-11-20.",
+      "github_check": "لم يُعثر على تطابق هوية في أسماء وأوصاف 1189 مستودعًا ومحتوى 166 مشروعًا ذا صلة. تطابق كلمة لافندر في مشاريع أخرى كان وصفًا للون أو نوع زهور أو خدمة سبا، دون تطابق رقم أو حساب أو مدينة.",
+      "theme": {
+        "layout": "editorial",
+        "paper": "#f8f7fb",
+        "ink": "#3d3154",
+        "accent": "#725786",
+        "wash": "#ebe7f2",
+        "muted": "#685d77",
+        "hero": 4,
+        "side": 6,
+        "headline": "للفرح ألوان.\nولك اختيارك.",
+        "intro": "باقات، هدايا، وتفاصيل تليق بالمناسبة. كوّن فكرتك وابدأ الحديث مع فلاوري في الطائف.",
+        "tag": "تفاصيلك، على ذوقك",
+        "english": "Flowery"
+      }
+    },
+    {
+      "name": "دكان ورد",
+      "slug": "dokan-ward-taif",
+      "city": "الطائف",
+      "phone": "966534999343",
+      "address": "شارع الخمسين، حي الجال، الطائف",
+      "instagram": null,
+      "queries": [
+        "\"دكان ورد\" \"الطائف\" موقع",
+        "\"0534999343\"",
+        "\"دكان ورد\" \"الطائف\" انستقرام",
+        "\"دكان ورد\" \"053\" \"instagram\""
+      ],
+      "services": [
+        "باقات الورد",
+        "تنسيق الزهور",
+        "التوصيل حسب الاتفاق"
+      ],
+      "notes": "Directory explicitly says no standalone site. Yalqa and SaudiPeek independently confirm phone/address. Exact Instagram not recovered; do not invent.",
+      "source_url": "https://www.bizmideast.com/SA/%D8%AF%D9%83%D8%A7%D9%86-%D9%88%D8%B1%D8%AF_1C-053-499-9343",
+      "sources": [
+        {
+          "url": "https://www.bizmideast.com/SA/%D8%AF%D9%83%D8%A7%D9%86-%D9%88%D8%B1%D8%AF_1C-053-499-9343"
+        },
+        {
+          "url": "https://yalqa.com/p/dkan-wrd-388be5df"
+        },
+        {
+          "url": "https://saudipeek.com/saudi-shops/nearest-flower-shop-to-my-location/"
+        }
+      ],
+      "checked_date": "2026-11-20",
+      "website_status": "لم يُعثر على موقع مستقل في البحث بالاسم والمدينة والهاتف بتاريخ 2026-11-20.",
+      "github_check": "لم يُعثر على تطابق هوية في أسماء وأوصاف 1189 مستودعًا ومحتوى 166 مشروعًا ذا صلة. تطابق كلمة لافندر في مشاريع أخرى كان وصفًا للون أو نوع زهور أو خدمة سبا، دون تطابق رقم أو حساب أو مدينة.",
+      "theme": {
+        "layout": "frame",
+        "paper": "#fcfaf4",
+        "ink": "#30483c",
+        "accent": "#65754c",
+        "wash": "#eef0e5",
+        "muted": "#5b695c",
+        "hero": 5,
+        "side": 7,
+        "headline": "وردة منك،\nويومٌ أجمل.",
+        "intro": "في زحام الكلام، باقة واحدة تقول الكثير. اختر المناسبة وأضف رسالتك الخاصة.",
+        "tag": "هدية بسيطة، أثر جميل",
+        "english": "Dokan Ward"
+      }
+    },
+    {
+      "name": "لافندر",
+      "english": "Lavender Sakaka",
+      "slug": "lavender-sakaka",
+      "city": "سكاكا",
+      "phone": "966534120614",
+      "address": "حي الشلهوب، شارع الملك فيصل بن عبدالعزيز، سكاكا",
+      "instagram": "https://www.instagram.com/lavender.skaka",
+      "maps": "https://maps.app.goo.gl/8M13PU3djXPTCXAx5",
+      "sources": [
+        {
+          "url": "https://linktr.ee/lavender.skaka",
+          "kind": "primary",
+          "evidence": "Business-owned profile identifies gifts/flowers, Sakaka, and WhatsApp 0534120614. Outbound links are WhatsApp, Instagram, Snapchat, TikTok and Google Maps only."
+        }
+      ],
+      "services": [
+        "هدايا",
+        "زهور"
+      ],
+      "searches": [
+        "لافندر سكاكا 0534120614",
+        "0534120614",
+        "لافندر سكاكا متجر"
+      ],
+      "site_status": "No standalone site found. lavender-ksa.com is a different cosmetics business with different phone 966570050078.",
+      "confidence": "high",
+      "notes": "Do not also select بائعة الورد Sakaka: its directory address matches Lavender exactly, suggesting possible rename. Business-owned Linktree last modified 2026-09-11.",
+      "website_status": "لم يُعثر على موقع مستقل في البحث بالاسم والمدينة والهاتف بتاريخ 2026-11-20.",
+      "github_check": "لم يُعثر على تطابق هوية في أسماء وأوصاف 1189 مستودعًا ومحتوى 166 مشروعًا ذا صلة. تطابق كلمة لافندر في مشاريع أخرى كان وصفًا للون أو نوع زهور أو خدمة سبا، دون تطابق رقم أو حساب أو مدينة.",
+      "queries": [
+        "لافندر سكاكا 0534120614",
+        "0534120614",
+        "لافندر سكاكا متجر"
+      ],
+      "theme": {
+        "layout": "arch",
+        "paper": "#faf7ff",
+        "ink": "#49395f",
+        "accent": "#7958a0",
+        "wash": "#eee7f6",
+        "muted": "#70627e",
+        "hero": 6,
+        "side": 4,
+        "headline": "شيء من الورد،\nوكثير من اللطف.",
+        "intro": "هدايا وزهور من سكاكا، لمن لهم مكانهم الخاص. ابدأ بفكرة واترك لمشاعرك بقية التفاصيل.",
+        "tag": "حين تصبح الهدية شعورًا",
+        "english": "Lavender"
+      }
+    },
+    {
+      "name": "أزهار تخيل",
+      "english": "Takhayal Flowers",
+      "slug": "takhayal-flowers-hafr",
+      "city": "حفر الباطن",
+      "phone": "966535503006",
+      "address": "أبو بكر الصديق، حي المحمدية، حفر الباطن",
+      "instagram": null,
+      "maps": "https://maps.yango.com/ar-sa/org/167488805965/",
+      "sources": [
+        {
+          "url": "https://gulfmap.net/place/أزهار-تخيل",
+          "kind": "directory",
+          "evidence": "Flower/gift shop; exact phone 966535503006; Abu Bakr Al Siddiq, Al Muhammadiyah, Hafr Al Batin. No website field."
+        },
+        {
+          "url": "https://maps.yango.com/ar-sa/org/167488805965/",
+          "kind": "maps",
+          "evidence": "Same phone and address; flower shop with delivery and pickup."
+        }
+      ],
+      "services": [
+        "ورد",
+        "هدايا"
+      ],
+      "searches": [
+        "أزهار تخيل موقع",
+        "أزهار تخيل انستقرام",
+        "0535503006"
+      ],
+      "site_status": "No standalone site found; results are directory and map listings.",
+      "confidence": "medium",
+      "notes": "WhatsApp link offered by Gulfmap directory, not independently confirmed by business.",
+      "website_status": "لم يُعثر على موقع مستقل في البحث بالاسم والمدينة والهاتف بتاريخ 2026-11-20.",
+      "github_check": "لم يُعثر على تطابق هوية في أسماء وأوصاف 1189 مستودعًا ومحتوى 166 مشروعًا ذا صلة. تطابق كلمة لافندر في مشاريع أخرى كان وصفًا للون أو نوع زهور أو خدمة سبا، دون تطابق رقم أو حساب أو مدينة.",
+      "queries": [
+        "أزهار تخيل موقع",
+        "أزهار تخيل انستقرام",
+        "0535503006"
+      ],
+      "theme": {
+        "layout": "frame",
+        "paper": "#fff8f0",
+        "ink": "#624328",
+        "accent": "#9d612d",
+        "wash": "#f7eadd",
+        "muted": "#79634f",
+        "hero": 12,
+        "side": 1,
+        "headline": "تخيّل الفرحة.\nواختر ألوانها.",
+        "intro": "أزهار تخيل في حفر الباطن. مساحة لاختيار فكرة ورد أو هدية تعبّر عنك.",
+        "tag": "كل فرحة تستحق وردًا",
+        "english": "Takhayal"
+      }
+    },
+    {
+      "name": "سمو الورد",
+      "english": "Sumuw Al Ward",
+      "slug": "sumuw-flowers-arar",
+      "city": "عرعر",
+      "phone": "966503381550",
+      "address": "حي الضاحية، عرعر",
+      "instagram": null,
+      "maps": null,
+      "sources": [
+        {
+          "url": "https://www.bizmideast.com/SA/محل-سمو-الورد-لتغليف-الورد-والهدايا-050-338-1550",
+          "kind": "directory",
+          "evidence": "Exact business name includes flower and gift wrapping, exact phone 0503381550 and Al Dahiyah, Arar."
+        },
+        {
+          "url": "https://saudiarabiaconference.com/mrkz-tswq/mntq-lhdwd-lshmly/mhl-smw-lwrd-ltglyf-lwrd-wlhdy/",
+          "kind": "directory",
+          "evidence": "Confirms exact same name, phone and address."
+        }
+      ],
+      "services": [
+        "تغليف ورد",
+        "تغليف هدايا"
+      ],
+      "searches": [
+        "سمو الورد عرعر",
+        "0503381550 ورد",
+        "سمو الورد عرعر متجر موقع انستقرام"
+      ],
+      "site_status": "No standalone site found; returned directories only.",
+      "confidence": "medium",
+      "notes": "Phone is public business number. WhatsApp capability not independently confirmed; prefer call or label WhatsApp as inquiry only.",
+      "website_status": "لم يُعثر على موقع مستقل في البحث بالاسم والمدينة والهاتف بتاريخ 2026-11-20.",
+      "github_check": "لم يُعثر على تطابق هوية في أسماء وأوصاف 1189 مستودعًا ومحتوى 166 مشروعًا ذا صلة. تطابق كلمة لافندر في مشاريع أخرى كان وصفًا للون أو نوع زهور أو خدمة سبا، دون تطابق رقم أو حساب أو مدينة.",
+      "queries": [
+        "سمو الورد عرعر",
+        "0503381550 ورد",
+        "سمو الورد عرعر متجر موقع انستقرام"
+      ],
+      "theme": {
+        "layout": "immersive",
+        "paper": "#fff9f7",
+        "ink": "#48252c",
+        "accent": "#a04f65",
+        "wash": "#f3e6e8",
+        "muted": "#75525b",
+        "hero": 2,
+        "side": 8,
+        "headline": "للمشاعر الراقية،\nوردٌ يليق بها.",
+        "intro": "تغليف الورد والهدايا في عرعر. شارك سمو الورد مناسبتك، واختر التفاصيل التي تحبها.",
+        "tag": "هدية تليق بمكانتهم",
+        "english": "Sumuw"
+      }
+    },
+    {
+      "name": "نسيم الورد",
+      "english": "Naseem Al Ward",
+      "slug": "naseem-flowers-arar",
+      "city": "عرعر",
+      "phone": "966506020463",
+      "address": "حي النسيم، عرعر",
+      "instagram": null,
+      "maps": null,
+      "sources": [
+        {
+          "url": "https://www.bizmideast.com/SA/نسيم-الورد-للهدايا-وكوش-الافراح-050-602-0463",
+          "kind": "directory",
+          "evidence": "Full name نسيم الورد للهدايا وكوش الافراح; phone 0506020463; حي النسيم عرعر."
+        },
+        {
+          "url": "https://hadaya.mobwb.com/city/عرعر",
+          "kind": "directory",
+          "evidence": "Names نسيم الورد in حي النسيم Arar with natural/artificial flowers, wrapping and event arrangements."
+        }
+      ],
+      "services": [
+        "ورد",
+        "هدايا",
+        "كوش أفراح"
+      ],
+      "searches": [
+        "نسيم الورد عرعر",
+        "0506020463",
+        "نسيم الورد عرعر موقع متجر"
+      ],
+      "site_status": "No standalone site found; returned business directories only.",
+      "confidence": "medium",
+      "notes": "Public phone only; WhatsApp capability not independently confirmed.",
+      "website_status": "لم يُعثر على موقع مستقل في البحث بالاسم والمدينة والهاتف بتاريخ 2026-11-20.",
+      "github_check": "لم يُعثر على تطابق هوية في أسماء وأوصاف 1189 مستودعًا ومحتوى 166 مشروعًا ذا صلة. تطابق كلمة لافندر في مشاريع أخرى كان وصفًا للون أو نوع زهور أو خدمة سبا، دون تطابق رقم أو حساب أو مدينة.",
+      "queries": [
+        "نسيم الورد عرعر",
+        "0506020463",
+        "نسيم الورد عرعر موقع متجر"
+      ],
+      "theme": {
+        "layout": "editorial",
+        "paper": "#f5fafb",
+        "ink": "#264e59",
+        "accent": "#3c7683",
+        "wash": "#e3eef0",
+        "muted": "#45636a",
+        "hero": 3,
+        "side": 5,
+        "headline": "فرحتك،\nتستحق أن تزهر.",
+        "intro": "ورد، هدايا، وتنسيق مناسبات في عرعر. أخبر نسيم الورد عن يومك وما تتخيله له.",
+        "tag": "للأيام التي تبقى في القلب",
+        "english": "Naseem"
+      }
+    },
+    {
+      "name": "بوكس فلور",
+      "english": "Box Flower Rafha",
+      "slug": "box-flower-rafha",
+      "city": "رفحاء",
+      "phone": "966507579828",
+      "address": "حي المحمدية، شارع الأمير عبدالعزيز بن مساعد بن جلوي، رفحاء",
+      "instagram": "https://www.instagram.com/flowr_box/",
+      "maps": "https://maps.yango.com/ar-sa/org/201326028730/",
+      "sources": [
+        {
+          "url": "https://www.bizmideast.com/SA/محل-ورد-بوكس-فلور-050-757-9828",
+          "kind": "directory",
+          "evidence": "Business phone 0507579828, address, Instagram flowr_box; directory explicitly says no website."
+        },
+        {
+          "url": "https://maps.yango.com/ar-sa/org/201326028730/",
+          "kind": "maps",
+          "evidence": "Same business name, phone and street address."
+        }
+      ],
+      "services": [
+        "ورد",
+        "هدايا",
+        "تغليف هدايا"
+      ],
+      "searches": [
+        "بوكس فلور رفحاء موقع",
+        "0507579828",
+        "flowr_box متجر",
+        "بوكس فلور رفحاء سلة زد متجر"
+      ],
+      "site_status": "No standalone site found; directory explicitly lists Instagram instead. Instagram opening throttled.",
+      "confidence": "medium-high",
+      "notes": "Public business phone; WhatsApp capability not independently confirmed.",
+      "theme": {
+        "layout": "split",
+        "paper": "#fffcf5",
+        "ink": "#5c472b",
+        "accent": "#976b31",
+        "wash": "#f5ecdc",
+        "muted": "#78674e",
+        "hero": 8,
+        "side": 0,
+        "headline": "أكثر من هدية.\nتفاصيل من القلب.",
+        "intro": "ورد وهدايا وتغليف في رفحاء. اجمع ما تحبه في فكرة، وابدأ تجهيز تفاصيلها مع بوكس فلور.",
+        "tag": "الهدية تبدأ من الفكرة",
+        "english": "Box Flower"
+      },
+      "queries": [
+        "بوكس فلور رفحاء موقع",
+        "0507579828",
+        "flowr_box متجر",
+        "بوكس فلور رفحاء سلة زد متجر"
+      ],
+      "website_status": "لم يُعثر على موقع مستقل في البحث بالاسم والمدينة والهاتف بتاريخ 2026-11-20.",
+      "github_check": "لم يُعثر على تطابق هوية في أسماء وأوصاف 1189 مستودعًا ومحتوى 166 مشروعًا ذا صلة. تطابق كلمة لافندر في مشاريع أخرى كان وصفًا للون أو نوع زهور أو خدمة سبا، دون تطابق رقم أو حساب أو مدينة."
+    }
+  ],
+  "excluded": [
+    {
+      "name": "ورد ومشاعر جازان",
+      "reason": "Directory marks closed"
+    },
+    {
+      "name": "لحظات الهدية أبها",
+      "reason": "Historical standalone domain momentforgifts.com, not sufficiently verified"
+    },
+    {
+      "name": "ميرسي عرعر",
+      "reason": "Standalone official store found",
+      "url": "https://merci-sa.com/"
+    },
+    {
+      "name": "وردانة حفر الباطن",
+      "reason": "Standalone official site found",
+      "url": "https://www.wardanaflower.com/"
+    },
+    {
+      "name": "2 فبراير ورد",
+      "reason": "Old Google business.site URL present in directories; not selected to avoid ambiguous prior website",
+      "url": "https://gulfmap.net/place/2-فبراير-ورد"
+    },
+    {
+      "name": "بائعة الورد سكاكا",
+      "reason": "Exact address matches Lavender; possible rename, excluded to avoid selecting same physical shop twice"
+    },
+    {
+      "name": "يوكو بوكس",
+      "reason": "No walk-in storefront confirmed; replaced with documented Box Flower Rafha."
+    }
+  ]
+}
