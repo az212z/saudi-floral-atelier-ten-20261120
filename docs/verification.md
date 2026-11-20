@@ -9,3 +9,7 @@
 - Screenshots visually reviewed at desktop and mobile; five layout variants and ten palettes.
 
 Limitations: automated accessibility scans are not full accessibility certification. No real messages, orders or payments were sent. Published telephone listings and WhatsApp links are not live confirmation of ownership or availability. No claim of zero possible defects. Business website absence and previous-work checks are limited to the recorded sources/scope.
+
+## Deployment verification
+
+GitHub Pages run 44795449139 succeeded. All 38 published HTML/CSS/JS/image/font/icon files returned HTTP 200 and matched the local file SHA-256. All ten pages also passed a 360px overflow check.

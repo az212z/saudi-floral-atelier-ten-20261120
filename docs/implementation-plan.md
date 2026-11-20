@@ -20,4 +20,4 @@ Use verified shop identity and contact, no fabricated business claims. Avoid dup
 - [x] Download illustrative flower images and Arabic fonts to assets; record attribution.
 - [x] Build ten pages with custom visual tokens and hero variants, gallery, occasions, inquiry builder and contact section.
 - [x] Validate all local links/assets and use real browser at desktop/mobile sizes; fix observed issues.
-- [ ] Create new GitHub repository, push reviewed source, enable Pages, verify ten deployed pages and deliver index/research/report.
+- [x] Create new GitHub repository, push reviewed source, enable Pages, verify ten deployed pages and deliver index/research/report.
